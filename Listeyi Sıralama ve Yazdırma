@@ -1,0 +1,5 @@
+#Liste Elemanlarını Küçükten Büyüğe Doğru Sıralayarak For Döngüsü ile Yazdırmak.
+sayilar = [5,3,1,4,2]
+sayilar.sort()
+for i in sayilar:
+    print(i)
